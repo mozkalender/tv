@@ -1,0 +1,109 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/gh-pages/guides/tr.xml"
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_1_logo_%282021%29.svg/200px-TRT_1_logo_%282021%29.svg.png" group-title="Turkce Kanallar",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/TRT_2_logo_%282021%29.svg/200px-TRT_2_logo_%282021%29.svg.png" group-title="Turkce Kanallar",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TRT_Haber_logo_%282021%29.svg/200px-TRT_Haber_logo_%282021%29.svg.png" group-title="Haber",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TRT_Spor_logo_%282021%29.svg/200px-TRT_Spor_logo_%282021%29.svg.png" group-title="Spor",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TRT_Spor_logo_%282021%29.svg/200px-TRT_Spor_logo_%282021%29.svg.png" group-title="Spor",TRT Spor Yildiz
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TRT_World_logo.svg/200px-TRT_World_logo.svg.png" group-title="Haber",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TRT_M%C3%BCzik_logo_%282021%29.svg/200px-TRT_M%C3%BCzik_logo_%282021%29.svg.png" group-title="Muzik",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Belgesel_logo_%282021%29.svg/200px-TRT_Belgesel_logo_%282021%29.svg.png" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TRT_%C3%87ocuk_logo_%282021%29.svg/200px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Cocuk",TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TRT_Kurd%C3%AE_logo_%282021%29.svg/200px-TRT_Kurd%C3%AE_logo_%282021%29.svg.png" group-title="Turkce Kanallar",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CNN_T%C3%BCrk_logo.svg/200px-CNN_T%C3%BCrk_logo.svg.png" group-title="Haber",CNN Turk
+https://cnnturk-live.ercdn.net/cnnturk/cnnturk.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/NTV_logo.svg/200px-NTV_logo.svg.png" group-title="Haber",NTV
+https://ntv-live.ercdn.net/ntv/ntv.m3u8
+
+#EXTINF:-1 tvg-id="HaberTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Habert%C3%BCrk_TV_logo.svg/200px-Habert%C3%BCrk_TV_logo.svg.png" group-title="Haber",Haberturk
+https://haberturk-live.ercdn.net/haberturk/haberturk.m3u8
+
+#EXTINF:-1 tvg-id="EuroNews.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Euronews_logo_2022.svg/200px-Euronews_logo_2022.svg.png" group-title="Haber",Euronews Turkce
+https://euronews-tr-live.ercdn.net/euronews-tr/euronews-tr.m3u8
+
+#EXTINF:-1 tvg-id="DWTurkce.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Haber",DW Turkce
+https://dwtv-live.ercdn.net/dwtv/dwtv.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kanal_D_logo.svg/200px-Kanal_D_logo.svg.png" group-title="Turkce Kanallar",Kanal D
+https://kanald-live.ercdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ATV_logo_%28Turkey%29.svg/200px-ATV_logo_%28Turkey%29.svg.png" group-title="Turkce Kanallar",ATV
+https://atv-live.ercdn.net/atv/atv.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Show_TV_logo.svg/200px-Show_TV_logo.svg.png" group-title="Turkce Kanallar",Show TV
+https://showtv-live.ercdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Star_TV_logo_%28Turkey%29.svg/200px-Star_TV_logo_%28Turkey%29.svg.png" group-title="Turkce Kanallar",Star TV
+https://startv-live.ercdn.net/startv/startv.m3u8
+
+#EXTINF:-1 tvg-id="FOXTurkiye.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/FOX_TV_Turkey_logo.svg/200px-FOX_TV_Turkey_logo.svg.png" group-title="Turkce Kanallar",FOX TV
+https://foxtv-live.ercdn.net/foxtv/foxtv.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TV8_logo_%28Turkey%29.svg/200px-TV8_logo_%28Turkey%29.svg.png" group-title="Turkce Kanallar",TV8
+https://tv8-live.ercdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="TV8_5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TV8_5_logo.svg/200px-TV8_5_logo.svg.png" group-title="Turkce Kanallar",TV8.5
+https://tv85-live.ercdn.net/tv85/tv85.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Halk_TV_logo.svg/200px-Halk_TV_logo.svg.png" group-title="Haber",Halk TV
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Haber_Global_logo.svg/200px-Haber_Global_logo.svg.png" group-title="Haber",Haber Global
+https://haberglobal-live.ercdn.net/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/360_TV_logo.svg/200px-360_TV_logo.svg.png" group-title="Haber",360 TV
+https://360tv-live.ercdn.net/360tv/360tv.m3u8
+
+#EXTINF:-1 tvg-id="TeleOneBir.tr" tvg-logo="" group-title="Haber",Tele1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 tvg-id="TGRT.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TGRT_Haber_logo.svg/200px-TGRT_Haber_logo.svg.png" group-title="Haber",TGRT Haber
+https://tgrthaber-live.ercdn.net/tgrthaber/tgrthaber.m3u8
+
+#EXTINF:-1 tvg-id="ASporTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/A_Spor_logo.svg/200px-A_Spor_logo.svg.png" group-title="Spor",A Spor
+https://aspor-live.ercdn.net/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="TvTaraftar.tr" tvg-logo="" group-title="Spor",TV Taraftar
+https://tvtaraftar-live.ercdn.net/tvtaraftar/tvtaraftar.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Cocuk",Cartoon Network TR
+https://cartoonnetwork-live.ercdn.net/cartoonnetwork/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Disney_Channel_2014.svg/200px-Disney_Channel_2014.svg.png" group-title="Cocuk",Disney Channel TR
+https://disneychannel-live.ercdn.net/disneychannel/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/National_Geographic_Channel_new_logo.svg/200px-National_Geographic_Channel_new_logo.svg.png" group-title="Belgesel",National Geographic TR
+https://natgeo-live.ercdn.net/natgeo/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Discovery_Channel_logo_2019.svg/200px-Discovery_Channel_logo_2019.svg.png" group-title="Belgesel",Discovery Channel TR
+https://discovery-live.ercdn.net/discovery/discovery.m3u8
+
+#EXTINF:-1 tvg-id="BBCWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BBC_World_News_2022.svg/200px-BBC_World_News_2022.svg.png" group-title="Haber",BBC World News
+https://bbcworld-live.ercdn.net/bbcworld/bbcworld.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Al_Jazeera_English_Logo.svg/200px-Al_Jazeera_English_Logo.svg.png" group-title="Haber",Al Jazeera English
+https://aljazeera-live.ercdn.net/aljazeera/aljazeera.m3u8
+
+#EXTINF:-1 tvg-id="France24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/France_24_logo.svg/200px-France_24_logo.svg.png" group-title="Haber",France 24 English
+https://france24-live.ercdn.net/france24/france24.m3u8
